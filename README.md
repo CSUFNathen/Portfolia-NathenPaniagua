@@ -55,7 +55,7 @@ This project involves creating a personal portfolio website to showcase informat
 - Ensured all elements and links function correctly.
 - Made final adjustments and improvements.
 
-### Phase 5: Final Phase
+### Phase 6: Final Phase
 
 - Publish the website
 
