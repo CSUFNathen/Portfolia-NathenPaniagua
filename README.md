@@ -4,13 +4,16 @@
 
 This project involves creating a personal portfolio website to showcase information about me. The site will feature:
 
-- About Me
+- Description
 - Professional Headshot
 - School Location
 - Major
 - Resume
-- Contact Information
+- Contact Page
 - GitHub Profile Link
+- Linkedin Profile Link
+- Twitter Profile Link
+- Instagram Profile Link
 - Projects
 
 ## Development Phases
@@ -20,11 +23,11 @@ This project involves creating a personal portfolio website to showcase informat
 - Designed the website layout and features on paper.
 - Defined the content and structure of the website.
 
-### Phase 1: Learning HTML & Basic Styling
+### Phase 1: Learning HTML, CSS & Basic Styling
 
-- Watched tutorials and learned HTML basics.
-- Explored HTML elements like `<h1>`, `<h2>`, `<p>`, `width`,` height`, and `<div>`.
-- Experimented with changing colors, adding images, adjusting font sizes, styles and boxes, and creating background designs.
+- Watched tutorials and learned HTML and CSS basics.
+- Explored HTML/CSS elements like `<h1>`, `<h2>`, `<p>`, `width`,` height`, `<div>`, ecs... .
+- Experimented with changing colors, adding images, adjusting font, font sizes, and creating background elements.
 - Started building the initial structure of the website.
 
 ### Phase 2: Implementing Buttons and Links
@@ -38,7 +41,7 @@ This project involves creating a personal portfolio website to showcase informat
 
 ### Phase 3: Creating and Designing Pages
 
-- Created individual pages for each section of the website.
+- Created individual pages or redirecting to a different links from the website.
 - Designed the layout and content of each page according to its intended purpose.
 
 ### Phase 4: Enhancing Content
@@ -52,21 +55,10 @@ This project involves creating a personal portfolio website to showcase informat
 - Ensured all elements and links function correctly.
 - Made final adjustments and improvements.
 
-## Usage
+### Phase 5: Final Phase
 
-To view or use the website, open the `index.html` file in your preferred web browser. Make sure all associated files (CSS, images, etc.) are in the correct directories.
+- Publish the website
 
 ## Final Thoughts
 
-Creating this website was a rewarding experience that deepened my understanding of web development. I gained valuable insights into the complexity of web design and the challenges that come with it. One particular challenge I faced was setting the background image. I struggled for hours trying to position the image correctly behind the main content box on the homepage.
-
-After numerous attempts and breaks, I discovered that the solution was surprisingly simple. By adding a `body` style in the CSS file and specifying the background image within that style, I was able to achieve the desired effect. Here’s the CSS code that resolved the issue:
-
-```css
-body {
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-image: url('images/background.jpeg'); /* <-- */
-    margin-bottom: 18px;
-}
+To Be added
